@@ -23,7 +23,7 @@ _详细教程请查阅[git官网](https://git-scm.com/book/zh/v2/)_
     `git branch "branchname"` // 设置分支名  
 * 添加远程仓库  
     `git remote add gxibvc git@github.com:gxibvcCA/gxibvcCA.github.io.git`  // gxibvc 为 shortname 可以任意设置  
-* 从远程仓库中拉取
+* 从远程仓库中拉取  
     `git fetch gxibvc`  // 拉取gxibvc仓库中的数据
 * 推送到远程仓库  
     `git push gxibvc branchname` // 将branchname推送到gxibvc仓库  
