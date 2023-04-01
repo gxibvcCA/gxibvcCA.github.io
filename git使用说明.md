@@ -1,3 +1,13 @@
+# GTI使用说明  
+
+##初次运行 Git 前的配置
+* Git 自带一个 git config 的工具来帮助设置控制 Git 外观和行为的配置变量  
+    *  你可以通过以下命令查看所有的配置  
+    `git config -l`
+    *  
+
+
+
 # GIT使用说明
 `git config -l` 
 `git config --global user.name "username"` // 用户名
