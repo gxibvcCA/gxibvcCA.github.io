@@ -26,4 +26,7 @@ _详细教程请查阅[git官网](https://git-scm.com/book/zh/v2/)_
 * 从远程仓库中拉取  
     `git fetch gxibvc`  // 拉取gxibvc仓库中的数据
 * 推送到远程仓库  
-    `git push gxibvc branchname` // 将branchname推送到gxibvc仓库  
+    `git push gxibvc branchname` // 将branchname推送到gxibvc仓库 
+
+
+**.io仓库为公开仓库,请勿上传任何敏感信息**
